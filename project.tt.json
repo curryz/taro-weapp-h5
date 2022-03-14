@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "saas-weapp-h5",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
